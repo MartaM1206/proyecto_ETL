@@ -4,11 +4,6 @@
 
 Nuestra empresa se dedica al sector hotelero en Madrid. Se nos ha proporcionado un archivo en formato Parquet que contiene información sobre reservas de hoteles, incluyendo datos de hoteles propios y de la competencia. Nuestro objetivo es extraer, transformar y cargar (ETL) estos datos para generar insights relevantes.
 
-Este proyecto analiza los datos históricos de la ejecución de ingresos entre 2013 y 2021 con los siguientes objetivos:
-
-    Identificar patrones
-    Detectar áreas problemáticas donde la recaudación ha sido consistentemente menor a lo previsto.
-    Proponer recomendaciones basadas en los datos que ayuden a mejorar la precisión de las previsiones y la eficiencia de la recaudación.
 
 📁 Estructura del Proyecto
 
