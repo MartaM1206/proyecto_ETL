@@ -23,20 +23,25 @@ Este proyecto analiza los datos históricos de la ejecución de ingresos entre 2
 
 🛠️ Instalación y Requisitos
 
-En este proyecto se emplea Python y SQL, y requiere las siguientes librerias:
+- Python: Versión 3.13.0
+- Jupyter Notebook (ejecutado a través de VSCode)
+- postgres mediante DBeaver
+- Librerías: 
+    - pandas 
+    - numpy 
+    - seaborn 
+    - matplotlib
+    - requests
+    - selenium
+    - time
+    - webdriver-manager
+    - psycopg2
 
-    pandas
-    numpy
-    matplotlib
-    seaborn
-    psycopg2
-    requests
-    selenium
-    time
-    webdriver-manager
+Para más detalles puedes consultar el archivo requirements.txt
 
 📊 Resultados y Conclusiones
-
+      - Los hoteles de la competencia son más baratos y tienen mayor valoración que los hoteles de nuestra marca. Se debería analizar las causas de la baja valoración.
+      - Los días 4 y 6 de febrero se produjeron altos picos de demanda en las reservas, mientras que el día 8 fue el día de menor demanda. Dado que no hay demasiados     datos temporales no se detecta relación entre días de la semana y demanda.
 
 
 🔄 Próximos Pasos
