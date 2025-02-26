@@ -4,7 +4,10 @@
 
 Nuestra empresa se dedica al sector hotelero en Madrid. Se nos ha proporcionado un archivo en formato Parquet que contiene información sobre reservas de hoteles, incluyendo datos de hoteles propios y de la competencia. Nuestro objetivo es extraer, transformar y cargar (ETL) estos datos para generar insights relevantes.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6f7c2f2ae9b599f635afa4df8edc1ff9e13576d5
 📁 Estructura del Proyecto
 
     ├── datos/               
@@ -36,7 +39,7 @@ Para más detalles puedes consultar el archivo requirements.txt
 
 📊 Resultados y Conclusiones
       - Los hoteles de la competencia son más baratos y tienen mayor valoración que los hoteles de nuestra marca. Se debería analizar las causas de la baja valoración.
-      - Los días 4 y 6 de febrero se produjeron altos picos de demanda en las reservas, mientras que el día 8 fue el día de menor demanda. Dado que no hay demasiados     datos temporales no se detecta relación entre días de la semana y demanda.
+      - Los días 4 y 6 de febrero se produjeron altos picos de demanda en las reservas, mientras que el día 8 fue el día de menor demanda. Dado que no hay demasiados datos temporales no se detecta relación entre días de la semana y demanda.
 
 
 🔄 Próximos Pasos
